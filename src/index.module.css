@@ -1,0 +1,20 @@
+.btn_more {
+  background: linear-gradient(#646de6, #222b86);
+  color: white;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  padding: 6px;
+}
+
+.btn_more:hover,
+.btn_more:focus,
+.btn_more:active {
+  box-shadow: 0 0 10px rgb(217, 227, 236);
+}
+.load_center {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
